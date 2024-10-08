@@ -358,5 +358,194 @@
 			"IV": null,
 			"V": null
 		}
+	},
+	"aquatic explosion": {
+		"tier": {
+			"I": "B",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"death claw critical": {
+		"tier": {
+			"I": "SS",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"high gravity critical": {
+		"tier": {
+			"I": "SSS",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"magma critical": {
+		"tier": {
+			"I": "B",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"water shot": {
+		"tier": {
+			"I": "B",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"dark seed explosion": {
+		"tier": {
+			"I": "BB",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"volcanic explosion": {
+		"tier": {
+			"I": "BB",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"flower healing": {
+		"tier": {
+			"I": "CC",
+			"II": "BB",
+			"III": "SS",
+			"IV": null,
+			"V": null
+		}
+	},
+	"backstab resistance": {
+		"tier": {
+			"I": "C",
+			"II": "CCC",
+			"III": "B",
+			"IV": null,
+			"V": null
+		}
+	},
+	"explosion resistance": {
+		"tier": {
+			"I": "C",
+			"II": "CCC",
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"headshot resistance": {
+		"tier": {
+			"I": "C",
+			"II": "CC",
+			"III": "B",
+			"IV": null,
+			"V": null
+		}
+	},
+	"poison resistance": {
+		"tier": {
+			"I": "C",
+			"II": "CC",
+			"III": "CCC",
+			"IV": "B",
+			"V": null
+		}
+	},
+	"wither resistance": {
+		"tier": {
+			"I": "C",
+			"II": "CC",
+			"III": "CCC",
+			"IV": "B",
+			"V": null
+		}
+	},
+	"meteor storm": {
+		"tier": {
+			"I": "AAA",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"soul chain": {
+		"tier": {
+			"I": "CCC",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"gravity well": {
+		"tier": {
+			"I": "CCC",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"sonic slash": {
+		"tier": {
+			"I": "SSS",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"flower field": {
+		"tier": {
+			"I": "B",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"summon woods": {
+		"tier": {
+			"I": "CCC",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"parrot form": {
+		"tier": {
+			"I": "CCC",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"deep freeze": {
+		"tier": {
+			"I": "BB",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
 	}
 }
