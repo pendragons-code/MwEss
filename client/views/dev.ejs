@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<%- include('./partials/head') %>
+</head>
+
+<body>
+	<%- include('./partials/nav') %>
+
+		<div class="container mt-5" id="mainBodyContainer">
+
+			<div class="pinkify my-5">
+				<article>
+					<h3 class="text-center p-2">Endpoints:</h3>
+					<div class="text-center mt-3">
+						<ul>
+							<li>/api/lookupess</li>
+							<li>/api/url</li>
+						</ul>
+					</div>
+				</article>
+			</div>
+
+
+
+<!-- api lookupess -->
+			<div class="pinkify my-5 p-5">
+				<article>
+					<h5 class="text-center m-2 p-2">Sample code (/api/lookupess) (Node.js)</h5>
+					<pre class="d-flex justify-content-center pinkify p-3"><code>
+const axios = require("axios");
+
+axios.request({
+	method: "GET",
+	url: "http://localhost:3000/api/url"
+}).then((response) => {
+	console.log(response.data);
+});
+					</code></pre>
+				</article>
+				<p>This endpoint is for looking up essences and requires the lowercase name of the essence, unfortunately it needs to be accurate.</p>
+				<h5 class="text-center my-2 p-2">Output:</h5>
+				<pre class="d-flex justify-content-center pinkify p-3"><code>
+{
+	result: { 
+		tier: { 
+			I: 'SSS',
+			II: null,
+			III: null,
+			IV: null,
+			V: null
+		}
+	}
+}
+				</code></pre>
+				<p>This list of possible fields are:<br>Z?, Z, X, SSS, SS, S, AAA, AA, A, BBB, BB, B, CCC, CC, C, no ess form and null<br>In the list, christieBot uses "Z?" and "no ess form" and this is added to keep the integrity of the list.</p>
+			</article>
+			</div>
+
+
+
+<!-- api url -->
+			<div class="pinkify my-5 p-5">
+				<article>
+					<h5 class="text-center m-2 p-2">Sample code (/api/url) (Node.js)</h5>
+					<pre class="d-flex justify-content-center pinkify p-3"><code>
+const axios = require("axios");
+
+axios.request({
+	method: "GET",
+	url: "http://localhost:3000/api/url"
+}).then((response) => {
+	console.log(response.data);
+});
+					</code></pre>
+					<p>This endpoint only returns the urls of the essence sheets, and does not do anything else. No fields required.</p>
+					<h5 class="text-center my-2 p-2">Output:</h5>
+					<pre class="d-flex justify-content-center pinkify p-3"><code>
+{
+	christieBot: 'https://docs.google.com/spreadsheets/d/1NreN_qK0pZ0KrREBt6c8M3P5o0c7qjcmf53OPgyYBcA/edit?gid=0#gid=0',
+	tatatot234: 'https://docs.google.com/spreadsheets/d/12CYgW-9DA6b-6k7qpEpmE496k8kP6t7B_9cTo85D1RU/edit?gid=809036244#gid=809036244'
+}
+					</code></pre>
+				</article>
+			</div>
+		</div>
+
+		<%- include('./partials/footer') %>
+</body>
+
+</html>

@@ -1,0 +1,45 @@
+@font-face {
+	font-family: "KGCornerOftheSky";
+	font-style: normal;
+	font-weight: 400;
+	src: local("KGCornerOftheSky"),
+		url("/fonts/KGCorneroftheSky.woff") format("woff");
+	/* https://kimberlygeswein.com/downloads/kg-corner-of-the-sky/ */
+}
+
+* {
+	background-color: #ffe5ec !important;
+	font-family: KGCornerOftheSky !important;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	color: #fb6f92 !important;
+	overflow: auto;
+}
+
+nav {
+	border-bottom: 3px solid #fb6f92 !important;
+}
+
+.btn {
+	color: #fb6f92 !important;
+	border: 3px solid #fb6f92 !important;
+}
+
+.btn:hover {
+	background-color: #fb6f92 !important;
+	color: #ffe5ec !important;
+	border: 3px solid #fb6f92 !important;
+}
+
+.pinkify {
+	border-radius: 25px;
+	padding: 5px !important;
+	border: 3px solid #fb6f92 !important;
+}
+
+pre, code {
+	color: #90EE90 !important;
+	background-color: #363d45 !important;
+	font-family: monospace !important;
+}
