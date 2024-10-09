@@ -1,7 +1,7 @@
 {
 	"cake on kill": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -10,7 +10,7 @@
 	},
 	"repeating arrow": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -19,7 +19,7 @@
 	},
 	"fang strike": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -28,7 +28,7 @@
 	},
 	"slayer of the blind": {
 		"tier": {
-			"I": "A",
+			"I": "5s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -37,16 +37,16 @@
 	},
 	"absorption on teleport": {
 		"tier": {
-			"I": "TBD",
-			"II": "TBD",
-			"III": "SS",
+			"I": "unknown",
+			"II": "unknown",
+			"III": "9s-15s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"ice pedestal": {
 		"tier": {
-			"I": "TBD",
+			"I": "unknown",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -55,7 +55,7 @@
 	},
 	"rain healing": {
 		"tier": {
-			"I": "TBD",
+			"I": "unknown",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -64,7 +64,7 @@
 	},
 	"back claymore": {
 		"tier": {
-			"I": "BBB",
+			"I": "4s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -73,7 +73,7 @@
 	},
 	"nausea immunity": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -82,16 +82,16 @@
 	},
 	"weakness resistance": {
 		"tier": {
-			"I": "TBD",
-			"II": "TBD",
-			"III": "TBD",
-			"VI": "TBD",
+			"I": "unknown",
+			"II": "unknown",
+			"III": "unknown",
+			"VI": "unknown",
 			"V": null
 		}
 	},
 	"proximity blind": {
 		"tier": {
-			"I": "S",
+			"I": "7s-9s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -100,16 +100,16 @@
 	},
 	"slow resistance": {
 		"tier": {
-			"I": "TBD",
-			"II": "TBD",
-			"III": "X",
-			"VI": "Z",
-			"V": "Z ess form?"
+			"I": "unknown",
+			"II": "unknown",
+			"III": "1-2 Sheggs",
+			"VI": "Bidding wars",
+			"V": "Bidding wars ess form?"
 		}
 	},
 	"photosynthesis": {
 		"tier": {
-			"I": "TBD",
+			"I": "unknown",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -118,25 +118,25 @@
 	},
 	"heal on teleport": {
 		"tier": {
-			"I": "TBD",
-			"II": "SS",
-			"III": "X",
+			"I": "unknown",
+			"II": "9s-15s",
+			"III": "1-2 Sheggs",
 			"VI": null,
 			"V": null
 		}
 	},
 	"fatigue resistance": {
 		"tier": {
-			"I": "TBD",
-			"II": "TBD",
-			"III": "Z?",
-			"VI": "Z?",
+			"I": "unknown",
+			"II": "unknown",
+			"III": "Bidding wars?",
+			"VI": "Bidding wars?",
 			"V": null
 		}
 	},
 	"goatfather": {
 		"tier": {
-			"I": "TBD",
+			"I": "unknown",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -145,7 +145,7 @@
 	},
 	"curse of fangs": {
 		"tier": {
-			"I": "TBD",
+			"I": "unknown",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -154,7 +154,7 @@
 	},
 	"force field": {
 		"tier": {
-			"I": "TBD",
+			"I": "unknown",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -163,7 +163,7 @@
 	},
 	"skeleton on teleport": {
 		"tier": {
-			"I": "TBD",
+			"I": "unknown",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -172,7 +172,7 @@
 	},
 	"lava eater": {
 		"tier": {
-			"I": "A",
+			"I": "5s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -181,7 +181,7 @@
 	},
 	"spontanious combustion?": {
 		"tier": {
-			"I": "TBD",
+			"I": "unknown",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -190,7 +190,7 @@
 	},
 	"arrow strike": {
 		"tier": {
-			"I": "SSS",
+			"I": "15s-26s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -199,7 +199,7 @@
 	},
 	"fatal strike": {
 		"tier": {
-			"I": "SSS",
+			"I": "15s-26s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -208,7 +208,7 @@
 	},
 	"ice coffin strike": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -217,7 +217,7 @@
 	},
 	"soul break": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -226,7 +226,7 @@
 	},
 	"healthy strike": {
 		"tier": {
-			"I": "SS",
+			"I": "9s-15s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -235,16 +235,16 @@
 	},
 	"untouchable": {
 		"tier": {
-			"I": "A",
-			"II": "SSS",
-			"III": "Z",
+			"I": "5s",
+			"II": "15s-26s",
+			"III": "Bidding wars",
 			"VI": "(no ess form)",
 			"V": null
 		}
 	},
 	"reflect on melee block": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -253,7 +253,7 @@
 	},
 	"shadowmeld": {
 		"tier": {
-			"I": "BBB",
+			"I": "4s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -262,25 +262,25 @@
 	},
 	"heighted senses": {
 		"tier": {
-			"I": "B",
-			"II": "AA",
-			"III": "SSS",
+			"I": "2s",
+			"II": "6s",
+			"III": "15s-26s",
 			"VI": "(no ess form)",
 			"V": null
 		}
 	},
 	"stability field": {
 		"tier": {
-			"I": "CCC",
-			"II": "AA",
-			"III": "SSS",
+			"I": "1s or less",
+			"II": "6s",
+			"III": "15s-26s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"decreased infinity block cooldown": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -289,16 +289,16 @@
 	},
 	"frost armor": {
 		"tier": {
-			"I": "CCC",
-			"II": "AA",
-			"III": "SSS",
+			"I": "1s or less",
+			"II": "6s",
+			"III": "15s-26s",
 			"VI": "(no ess form)",
 			"V": null
 		}
 	},
 	"increased infinity blocks placed": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -307,7 +307,7 @@
 	},
 	"static field": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -316,7 +316,7 @@
 	},
 	"life swap": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -325,7 +325,7 @@
 	},
 	"summon dimension anomaly": {
 		"tier": {
-			"I": "A",
+			"I": "5s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -334,7 +334,7 @@
 	},
 	"water eater": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -343,7 +343,7 @@
 	},
 	"ender pearl dispencer": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -352,7 +352,7 @@
 	},
 	"mass polymorph": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -361,7 +361,7 @@
 	},
 	"aquatic explosion": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -370,7 +370,7 @@
 	},
 	"death claw critical": {
 		"tier": {
-			"I": "SS",
+			"I": "9s-15s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -379,7 +379,7 @@
 	},
 	"high gravity critical": {
 		"tier": {
-			"I": "SSS",
+			"I": "15s-26s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -388,7 +388,7 @@
 	},
 	"magma critical": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -397,7 +397,7 @@
 	},
 	"water shot": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -406,7 +406,7 @@
 	},
 	"dark seed explosion": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -415,7 +415,7 @@
 	},
 	"volcanic explosion": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -424,26 +424,26 @@
 	},
 	"flower healing": {
 		"tier": {
-			"I": "CC",
-			"II": "BB",
-			"III": "SS",
+			"I": "32d or less",
+			"II": "3s",
+			"III": "9s-15s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"backstab resistance": {
 		"tier": {
-			"I": "C",
-			"II": "CCC",
-			"III": "B",
+			"I": "16d or less",
+			"II": "1s or less",
+			"III": "2s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"explosion resistance": {
 		"tier": {
-			"I": "C",
-			"II": "CCC",
+			"I": "16d or less",
+			"II": "1s or less",
 			"III": null,
 			"VI": null,
 			"V": null
@@ -451,34 +451,34 @@
 	},
 	"headshot resistance": {
 		"tier": {
-			"I": "C",
-			"II": "CC",
-			"III": "B",
+			"I": "16d or less",
+			"II": "32d or less",
+			"III": "2s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"poison resistance": {
 		"tier": {
-			"I": "C",
-			"II": "CC",
-			"III": "CCC",
-			"VI": "B",
+			"I": "16d or less",
+			"II": "32d or less",
+			"III": "1s or less",
+			"VI": "2s",
 			"V": null
 		}
 	},
 	"wither resistance": {
 		"tier": {
-			"I": "C",
-			"II": "CC",
-			"III": "CCC",
-			"VI": "B",
+			"I": "16d or less",
+			"II": "32d or less",
+			"III": "1s or less",
+			"VI": "2s",
 			"V": null
 		}
 	},
 	"meteor storm": {
 		"tier": {
-			"I": "AAA",
+			"I": "7s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -487,7 +487,7 @@
 	},
 	"soul chain": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -496,7 +496,7 @@
 	},
 	"gravity well": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -505,7 +505,7 @@
 	},
 	"sonic slash": {
 		"tier": {
-			"I": "SSS",
+			"I": "15s-26s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -514,7 +514,7 @@
 	},
 	"flower field": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -523,7 +523,7 @@
 	},
 	"summon woods": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -532,7 +532,7 @@
 	},
 	"parrot form": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -541,7 +541,7 @@
 	},
 	"deep freeze": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -550,7 +550,7 @@
 	},
 	"nausea": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -559,7 +559,7 @@
 	},
 	"blind": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -568,61 +568,61 @@
 	},
 	"wither": {
 		"tier": {
-			"I": "BBB",
-			"II": "AA",
-			"III": "SSS",
+			"I": "4s",
+			"II": "6s",
+			"III": "15s-26s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"poison": {
 		"tier": {
-			"I": "CC",
-			"II": "CCC",
-			"III": "A",
+			"I": "32d or less",
+			"II": "1s or less",
+			"III": "5s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"slow": {
 		"tier": {
-			"I": "CCC",
-			"II": "B",
-			"III": "AA",
-			"VI": "SSS",
-			"V": "Z"
+			"I": "1s or less",
+			"II": "2s",
+			"III": "6s",
+			"VI": "15s-26s",
+			"V": "Bidding wars"
 		}
 	},
 	"bind": {
 		"tier": {
-			"I": "B",
-			"II": "BBB",
-			"III": "SS",
+			"I": "2s",
+			"II": "4s",
+			"III": "9s-15s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"cripple": {
 		"tier": {
-			"I": "BB",
-			"II": "A",
-			"III": "SSS",
+			"I": "3s",
+			"II": "5s",
+			"III": "15s-26s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"feed blocker": {
 		"tier": {
-			"I": "B",
-			"II": "AA",
-			"III": "SSS",
+			"I": "2s",
+			"II": "6s",
+			"III": "15s-26s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"marker": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -631,16 +631,16 @@
 	},
 	"magic disrupt": {
 		"tier": {
-			"I": "BBB",
-			"II": "AAA",
-			"III": "SSS",
+			"I": "4s",
+			"II": "7s",
+			"III": "15s-26s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"starve": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -649,7 +649,7 @@
 	},
 	"reduce heal": {
 		"tier": {
-			"I": "AAA",
+			"I": "7s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -658,8 +658,8 @@
 	},
 	"life steal": {
 		"tier": {
-			"I": "BBB",
-			"II": "X",
+			"I": "4s",
+			"II": "1-2 Sheggs",
 			"III": null,
 			"VI": null,
 			"V": null
@@ -667,7 +667,7 @@
 	},
 	"bloodlust": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -676,8 +676,8 @@
 	},
 	"mounted damage": {
 		"tier": {
-			"I": "C",
-			"II": "B",
+			"I": "16d or less",
+			"II": "2s",
 			"III": null,
 			"VI": null,
 			"V": null
@@ -685,16 +685,16 @@
 	},
 	"lightning strike": {
 		"tier": {
-			"I": "BB",
-			"II": "A",
-			"III": "SS",
+			"I": "3s",
+			"II": "5s",
+			"III": "9s-15s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"freezing strike": {
 		"tier": {
-			"I": "AA",
+			"I": "6s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -703,7 +703,7 @@
 	},
 	"recover undead strike": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -712,7 +712,7 @@
 	},
 	"recover shadow strike": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -721,8 +721,8 @@
 	},
 	"backstab": {
 		"tier": {
-			"I": "BBB",
-			"II": "SS",
+			"I": "4s",
+			"II": "9s-15s",
 			"III": null,
 			"VI": null,
 			"V": null
@@ -730,7 +730,7 @@
 	},
 	"sage slayer": {
 		"tier": {
-			"I": "SS",
+			"I": "9s-15s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -739,7 +739,7 @@
 	},
 	"critical plus": {
 		"tier": {
-			"I": "S",
+			"I": "7s-9s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -748,7 +748,7 @@
 	},
 	"elder branch": {
 		"tier": {
-			"I": "A",
+			"I": "5s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -757,7 +757,7 @@
 	},
 	"satan sweep": {
 		"tier": {
-			"I": "AA",
+			"I": "6s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -766,7 +766,7 @@
 	},
 	"instant mining": {
 		"tier": {
-			"I": "A",
+			"I": "5s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -775,43 +775,43 @@
 	},
 	"increased melee damage": {
 		"tier": {
-			"I": "BB",
-			"II": "S",
-			"III": "Z",
+			"I": "3s",
+			"II": "7s-9s",
+			"III": "Bidding wars",
 			"VI": null,
 			"V": null
 		}
 	},
 	"increased lightning damage": {
 		"tier": {
-			"I": "CC",
-			"II": "CCC",
-			"III": "B",
-			"VI": "AA",
-			"V": "SS"
+			"I": "32d or less",
+			"II": "1s or less",
+			"III": "2s",
+			"VI": "6s",
+			"V": "9s-15s"
 		}
 	},
 	"increased magic damage": {
 		"tier": {
-			"I": "B",
-			"II": "A",
-			"III": "SS",
+			"I": "2s",
+			"II": "5s",
+			"III": "9s-15s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"increased arrow damage": {
 		"tier": {
-			"I": "C",
-			"II": "CCC",
-			"III": "B",
-			"VI": "S",
-			"V": "X"
+			"I": "16d or less",
+			"II": "1s or less",
+			"III": "2s",
+			"VI": "7s-9s",
+			"V": "1-2 Sheggs"
 		}
 	},
 	"chaos curse": {
 		"tier": {
-			"I": "A",
+			"I": "5s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -820,7 +820,7 @@
 	},
 	"levitation shot": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -829,7 +829,7 @@
 	},
 	"frost arrow": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -838,7 +838,7 @@
 	},
 	"love strike": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -847,7 +847,7 @@
 	},
 	"sticky explosive": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -856,17 +856,17 @@
 	},
 	"headshot": {
 		"tier": {
-			"I": "CC",
-			"II": "BBB",
-			"III": "SS",
+			"I": "32d or less",
+			"II": "4s",
+			"III": "9s-15s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"lava shot": {
 		"tier": {
-			"I": "CCC",
-			"II": "BB",
+			"I": "1s or less",
+			"II": "3s",
 			"III": null,
 			"VI": null,
 			"V": null
@@ -874,7 +874,7 @@
 	},
 	"spectre shot": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -883,7 +883,7 @@
 	},
 	"santa rage": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -892,7 +892,7 @@
 	},
 	"molotov": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -901,7 +901,7 @@
 	},
 	"crouching web shot": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -910,7 +910,7 @@
 	},
 	"rabbit shot": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -919,7 +919,7 @@
 	},
 	"falken": {
 		"tier": {
-			"I": "AA",
+			"I": "6s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -928,7 +928,7 @@
 	},
 	"heart extractor": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -937,7 +937,7 @@
 	},
 	"decapication": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -946,7 +946,7 @@
 	},
 	"unholy strength": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -955,7 +955,7 @@
 	},
 	"chain shot": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -964,7 +964,7 @@
 	},
 	"death absorption": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -973,43 +973,43 @@
 	},
 	"regeneration": {
 		"tier": {
-			"I": "AA",
-			"II": "SS",
-			"III": "X",
+			"I": "6s",
+			"II": "9s-15s",
+			"III": "1-2 Sheggs",
 			"VI": null,
 			"V": null
 		}
 	},
 	"jump": {
 		"tier": {
-			"I": "B",
-			"II": "BB",
-			"III": "BBB",
-			"VI": "AA",
-			"V": "SS"
+			"I": "2s",
+			"II": "3s",
+			"III": "4s",
+			"VI": "6s",
+			"V": "9s-15s"
 		}
 	},
 	"speed": {
 		"tier": {
-			"I": "B",
-			"II": "BB",
-			"III": "S",
-			"VI": "X",
-			"V": "Z"
+			"I": "2s",
+			"II": "3s",
+			"III": "7s-9s",
+			"VI": "1-2 Sheggs",
+			"V": "Bidding wars"
 		}
 	},
 	"strength": {
 		"tier": {
-			"I": "B",
-			"II": "S",
-			"III": "SS",
-			"VI": "Z",
+			"I": "2s",
+			"II": "7s-9s",
+			"III": "9s-15s",
+			"VI": "Bidding wars",
 			"V": null
 		}
 	},
 	"damage resistance": {
 		"tier": {
-			"I": "SS",
+			"I": "9s-15s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1018,8 +1018,8 @@
 	},
 	"haste": {
 		"tier": {
-			"I": "B",
-			"II": "AAA",
+			"I": "2s",
+			"II": "7s",
 			"III": null,
 			"VI": null,
 			"V": null
@@ -1027,16 +1027,16 @@
 	},
 	"absorption": {
 		"tier": {
-			"I": "BBB",
-			"II": "AAA",
-			"III": "X",
+			"I": "4s",
+			"II": "7s",
+			"III": "1-2 Sheggs",
 			"VI": null,
 			"V": null
 		}
 	},
 	"water breathing": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1045,7 +1045,7 @@
 	},
 	"night vision": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1054,7 +1054,7 @@
 	},
 	"blindness immunity": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1063,7 +1063,7 @@
 	},
 	"knockback immunity": {
 		"tier": {
-			"I": "AAA",
+			"I": "7s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1072,16 +1072,16 @@
 	},
 	"anti-mage": {
 		"tier": {
-			"I": "B",
-			"II": "AA",
-			"III": "SSS",
+			"I": "2s",
+			"II": "6s",
+			"III": "15s-26s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"sacred absorption": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1090,7 +1090,7 @@
 	},
 	"sacred regen": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1099,7 +1099,7 @@
 	},
 	"sacred strength": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1108,7 +1108,7 @@
 	},
 	"grass nourishment": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1117,25 +1117,25 @@
 	},
 	"exp gain boost": {
 		"tier": {
-			"I": "C",
-			"II": "C",
-			"III": "C",
-			"VI": "C",
-			"V": "B"
+			"I": "16d or less",
+			"II": "16d or less",
+			"III": "16d or less",
+			"VI": "16d or less",
+			"V": "2s"
 		}
 	},
 	"increased heal power": {
 		"tier": {
-			"I": "C",
-			"II": "CC",
-			"III": "CCC",
-			"VI": "BBB",
-			"V": "SS"
+			"I": "16d or less",
+			"II": "32d or less",
+			"III": "1s or less",
+			"VI": "4s",
+			"V": "9s-15s"
 		}
 	},
 	"increased potion duration": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1144,7 +1144,7 @@
 	},
 	"increased heal & harm potion": {
 		"tier": {
-			"I": "B",
+			"I": "2s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1153,7 +1153,7 @@
 	},
 	"fast potion recharge": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1162,7 +1162,7 @@
 	},
 	"increased dagger replenish": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1171,7 +1171,7 @@
 	},
 	"increased throwing damage": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1180,52 +1180,52 @@
 	},
 	"increased maximum daggers": {
 		"tier": {
-			"I": "C",
-			"II": "CC",
-			"III": "CC",
-			"VI": "CCC",
-			"V": "A"
+			"I": "16d or less",
+			"II": "32d or less",
+			"III": "32d or less",
+			"VI": "1s or less",
+			"V": "5s"
 		}
 	},
 	"increased summon damage": {
 		"tier": {
-			"I": "CC",
-			"II": "B",
-			"III": "S",
+			"I": "32d or less",
+			"II": "2s",
+			"III": "7s-9s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"maximum bees": {
 		"tier": {
-			"I": "C",
-			"II": "CCC",
-			"III": "BB",
-			"VI": "A",
+			"I": "16d or less",
+			"II": "1s or less",
+			"III": "3s",
+			"VI": "5s",
 			"V": null
 		}
 	},
 	"bee agression": {
 		"tier": {
-			"I": "CC",
-			"II": "CC",
-			"III": "BB",
-			"VI": "AAA",
+			"I": "32d or less",
+			"II": "32d or less",
+			"III": "3s",
+			"VI": "7s",
 			"V": null
 		}
 	},
 	"nature free cast": {
 		"tier": {
-			"I": "CC",
-			"II": "CCC",
-			"III": "BB",
-			"VI": "AAA",
-			"V": "X"
+			"I": "32d or less",
+			"II": "1s or less",
+			"III": "3s",
+			"VI": "7s",
+			"V": "1-2 Sheggs"
 		}
 	},
 	"bite back": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1234,7 +1234,7 @@
 	},
 	"spongebob": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1243,7 +1243,7 @@
 	},
 	"heal on shield block": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1252,7 +1252,7 @@
 	},
 	"lava walker": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1261,7 +1261,7 @@
 	},
 	"ice growth": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1270,7 +1270,7 @@
 	},
 	"blood soup": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1279,7 +1279,7 @@
 	},
 	"baby horde": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1288,7 +1288,7 @@
 	},
 	"rabbid rabbits": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1297,7 +1297,7 @@
 	},
 	"blood heal": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1306,7 +1306,7 @@
 	},
 	"web spinner": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1315,7 +1315,7 @@
 	},
 	"polymorph": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1324,7 +1324,7 @@
 	},
 	"centipede": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1333,7 +1333,7 @@
 	},
 	"bone path": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1342,7 +1342,7 @@
 	},
 	"ignoble steed": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1351,7 +1351,7 @@
 	},
 	"water ball": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1360,7 +1360,7 @@
 	},
 	"ice shinto": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1369,7 +1369,7 @@
 	},
 	"ninja foxes": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1378,7 +1378,7 @@
 	},
 	"fire blast": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1387,7 +1387,7 @@
 	},
 	"vexers": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1396,7 +1396,7 @@
 	},
 	"elder phantom": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1405,7 +1405,7 @@
 	},
 	"dragon switch": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1414,7 +1414,7 @@
 	},
 	"fire hand": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1423,7 +1423,7 @@
 	},
 	"ice bomb": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1432,7 +1432,7 @@
 	},
 	"skeleton horse": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1441,7 +1441,7 @@
 	},
 	"fire soulmass": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1450,7 +1450,7 @@
 	},
 	"aegis": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1459,7 +1459,7 @@
 	},
 	"ghast chan": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1468,7 +1468,7 @@
 	},
 	"fire spiral": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1477,7 +1477,7 @@
 	},
 	"flame aegis": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1486,7 +1486,7 @@
 	},
 	"shadow fangs": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1495,7 +1495,7 @@
 	},
 	"dragon fireball": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1504,7 +1504,7 @@
 	},
 	"telekinesis": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1513,7 +1513,7 @@
 	},
 	"mana spirit": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1522,7 +1522,7 @@
 	},
 	"honey cannon": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1531,7 +1531,7 @@
 	},
 	"flying turtle": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1540,7 +1540,7 @@
 	},
 	"skeleton assassin": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1549,7 +1549,7 @@
 	},
 	"war bees": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1558,7 +1558,7 @@
 	},
 	"ice prison": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1567,7 +1567,7 @@
 	},
 	"icengard": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1576,7 +1576,7 @@
 	},
 	"levitation": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1585,7 +1585,7 @@
 	},
 	"ball lightning": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1594,7 +1594,7 @@
 	},
 	"multiflame": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1603,7 +1603,7 @@
 	},
 	"bone spirit": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1612,7 +1612,7 @@
 	},
 	"invisible sneak": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1621,7 +1621,7 @@
 	},
 	"night goggles": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1630,7 +1630,7 @@
 	},
 	"jump rod": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1639,7 +1639,7 @@
 	},
 	"shoot web": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1648,7 +1648,7 @@
 	},
 	"teleport": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1657,7 +1657,7 @@
 	},
 	"blizzard": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1666,7 +1666,7 @@
 	},
 	"ice domain": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1675,7 +1675,7 @@
 	},
 	"lava shotgun": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1684,7 +1684,7 @@
 	},
 	"shadow swarm": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1693,7 +1693,7 @@
 	},
 	"magma orb": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1702,7 +1702,7 @@
 	},
 	"rage of zeus": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1711,7 +1711,7 @@
 	},
 	"woofers": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1720,7 +1720,7 @@
 	},
 	"web step": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1729,7 +1729,7 @@
 	},
 	"black hole": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1738,7 +1738,7 @@
 	},
 	"snowmage": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1747,7 +1747,7 @@
 	},
 	"shadow form": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1756,7 +1756,7 @@
 	},
 	"nature heal": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1765,7 +1765,7 @@
 	},
 	"flying panda": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1774,7 +1774,7 @@
 	},
 	"lava bolt": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1783,7 +1783,7 @@
 	},
 	"dragon leap": {
 		"tier": {
-			"I": "BB",
+			"I": "3s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1792,7 +1792,7 @@
 	},
 	"grug charge": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1801,7 +1801,7 @@
 	},
 	"blood drain": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1810,7 +1810,7 @@
 	},
 	"blessed snow": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1819,7 +1819,7 @@
 	},
 	"dimension steed": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1828,7 +1828,7 @@
 	},
 	"escape skeleton": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1837,7 +1837,7 @@
 	},
 	"giant snowball": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1846,7 +1846,7 @@
 	},
 	"exploding chickens": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1855,7 +1855,7 @@
 	},
 	"puchita": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1864,7 +1864,7 @@
 	},
 	"ice path": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1873,7 +1873,7 @@
 	},
 	"shadow saw": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1882,7 +1882,7 @@
 	},
 	"skeleton archer": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1891,7 +1891,7 @@
 	},
 	"curse skull": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1900,7 +1900,7 @@
 	},
 	"zombie horse": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1909,7 +1909,7 @@
 	},
 	"bat blink": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1918,8 +1918,8 @@
 	},
 	"sneak fortitication": {
 		"tier": {
-			"I": "B",
-			"II": "S",
+			"I": "2s",
+			"II": "7s-9s",
 			"III": null,
 			"VI": null,
 			"V": null
@@ -1927,7 +1927,7 @@
 	},
 	"tornado": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1936,7 +1936,7 @@
 	},
 	"quickstep": {
 		"tier": {
-			"I": "AAA",
+			"I": "7s",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1945,7 +1945,7 @@
 	},
 	"dragon spawn": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1954,7 +1954,7 @@
 	},
 	"flying brown panda": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1963,7 +1963,7 @@
 	},
 	"teleport behind": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1972,7 +1972,7 @@
 	},
 	"vanishing teleport": {
 		"tier": {
-			"I": "CC",
+			"I": "32d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -1990,7 +1990,7 @@
 	},
 	"morbin time": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -2000,15 +2000,15 @@
 	"fire soul": {
 		"tier": {
 			"I": null,
-			"II": "C",
-			"III": "CC",
+			"II": "16d or less",
+			"III": "32d or less",
 			"VI": null,
 			"V": null
 		}
 	},
 	"increased fire recharge": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -2018,8 +2018,8 @@
 	"ice soul": {
 		"tier": {
 			"I": null,
-			"II": "CC",
-			"III": "B",
+			"II": "32d or less",
+			"III": "2s",
 			"VI": null,
 			"V": null
 		}
@@ -2027,15 +2027,15 @@
 	"nature soul": {
 		"tier": {
 			"I": null,
-			"II": "CC",
-			"III": "B",
+			"II": "32d or less",
+			"III": "2s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"increased elemental recharge": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -2045,8 +2045,8 @@
 	"shadow soul": {
 		"tier": {
 			"I": null,
-			"II": "C",
-			"III": "CC",
+			"II": "16d or less",
+			"III": "32d or less",
 			"VI": null,
 			"V": null
 		}
@@ -2054,15 +2054,15 @@
 	"blood soul": {
 		"tier": {
 			"I": null,
-			"II": "C",
-			"III": "CC",
+			"II": "16d or less",
+			"III": "32d or less",
 			"VI": null,
 			"V": null
 		}
 	},
 	"fast blood recharge": {
 		"tier": {
-			"I": "C",
+			"I": "16d or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -2071,7 +2071,7 @@
 	},
 	"blood ground siphon": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -2081,8 +2081,8 @@
 	"undead soul": {
 		"tier": {
 			"I": null,
-			"II": "C",
-			"III": "CC",
+			"II": "16d or less",
+			"III": "32d or less",
 			"VI": null,
 			"V": null
 		}
@@ -2090,8 +2090,8 @@
 	"orc soul": {
 		"tier": {
 			"I": null,
-			"II": "C",
-			"III": "CC",
+			"II": "16d or less",
+			"III": "32d or less",
 			"VI": null,
 			"V": null
 		}
@@ -2099,15 +2099,15 @@
 	"dragon soul": {
 		"tier": {
 			"I": null,
-			"II": "CC",
-			"III": "B",
+			"II": "32d or less",
+			"III": "2s",
 			"VI": null,
 			"V": null
 		}
 	},
 	"increased dark recharge": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -2116,7 +2116,7 @@
 	},
 	"increased dragon recharge": {
 		"tier": {
-			"I": "CCC",
+			"I": "1s or less",
 			"II": null,
 			"III": null,
 			"VI": null,
@@ -2126,8 +2126,8 @@
 	"beast soul": {
 		"tier": {
 			"I": null,
-			"II": "C",
-			"III": "CC",
+			"II": "16d or less",
+			"III": "32d or less",
 			"VI": null,
 			"V": null
 		}
@@ -2135,8 +2135,8 @@
 	"dimension soul": {
 		"tier": {
 			"I": null,
-			"II": "C",
-			"III": "CC",
+			"II": "16d or less",
+			"III": "32d or less",
 			"VI": null,
 			"V": null
 		}
