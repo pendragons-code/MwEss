@@ -547,5 +547,176 @@
 			"IV": null,
 			"V": null
 		}
+	},
+	"nausea": {
+		"tier": {
+			"I": "CC",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"blind": {
+		"tier": {
+			"I": "B",	
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"wither": {
+		"tier": {
+			"I": "BBB",
+			"II": "AA",
+			"III": "SSS",
+			"IV": null,
+			"V": null
+		}
+	},
+	"poison": {
+		"tier": {
+			"I": "CC",
+			"II": "CCC",
+			"III": "A",
+			"IV": null,
+			"V": null
+		}
+	},
+	"slow": {
+		"tier": {
+			"I": "CCC",
+			"II": "B",
+			"III": "AA",
+			"IV": "S",
+			"V": "Z"
+		}
+	},
+	"bind": {
+		"tier": {
+			"I": null,
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"cripple": {
+		"tier": {
+			"I": "BB",
+			"II": "A",
+			"III": "SSS",
+			"IV": null,
+			"V": null
+		}
+	},
+	"feed blocker": {
+		"tier": {
+			"I": "B",
+			"II": "AA",
+			"III": "SSS",
+			"IV": null,
+			"V": null
+		}
+	},
+	"marker": {
+		"tier": {
+			"I": "BB",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"magic disrupt": {
+		"tier": {
+			"I": "BBB",
+			"II": "AAA",
+			"III": "SSS",
+			"IV": null,
+			"V": null
+		}
+	},
+	"starve": {
+		"tier": {
+			"I": null,
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"reduce heal": {
+		"tier": {
+			"I": "AAA",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"life steal": {
+		"tier": {
+			"I": "BBB",
+			"II": "X",
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"bloodlust": {
+		"tier": {
+			"I": "B",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"mounted damage": {
+		"tier": {
+			"I": "C",
+			"II": "B",
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"lightning strike": {
+		"tier": {
+			"I": "BB",
+			"II": "A",
+			"III": "SS",
+			"IV": null,
+			"V": null
+		}
+	},
+	"freezing strike": {
+		"tier": {
+			"I": "AA",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"recover undead strike": {
+		"tier": {
+			"I": "C",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
+	},
+	"recover shadow strike": {
+		"tier": {
+			"I": "C",
+			"II": null,
+			"III": null,
+			"IV": null,
+			"V": null
+		}
 	}
 }
