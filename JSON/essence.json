@@ -4,7 +4,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -13,7 +13,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -22,7 +22,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -31,7 +31,7 @@
 			"I": "5s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -40,7 +40,7 @@
 			"I": "unknown",
 			"II": "unknown",
 			"III": "9s-15s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -49,7 +49,7 @@
 			"I": "unknown",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -58,7 +58,7 @@
 			"I": "unknown",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -67,7 +67,7 @@
 			"I": "4s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -76,7 +76,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -85,7 +85,7 @@
 			"I": "unknown",
 			"II": "unknown",
 			"III": "unknown",
-			"VI": "unknown",
+			"IV": "unknown",
 			"V": null
 		}
 	},
@@ -94,7 +94,7 @@
 			"I": "7s-9s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -103,7 +103,7 @@
 			"I": "unknown",
 			"II": "unknown",
 			"III": "1-2 Sheggs",
-			"VI": "Bidding wars",
+			"IV": "Bidding wars",
 			"V": "Bidding wars ess form?"
 		}
 	},
@@ -112,7 +112,7 @@
 			"I": "unknown",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -121,7 +121,7 @@
 			"I": "unknown",
 			"II": "9s-15s",
 			"III": "1-2 Sheggs",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -130,7 +130,7 @@
 			"I": "unknown",
 			"II": "unknown",
 			"III": "Bidding wars?",
-			"VI": "Bidding wars?",
+			"IV": "Bidding wars?",
 			"V": null
 		}
 	},
@@ -139,7 +139,7 @@
 			"I": "unknown",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -148,7 +148,7 @@
 			"I": "unknown",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -157,7 +157,7 @@
 			"I": "unknown",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -166,7 +166,7 @@
 			"I": "unknown",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -175,7 +175,7 @@
 			"I": "5s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -184,7 +184,7 @@
 			"I": "unknown",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -193,7 +193,7 @@
 			"I": "15s-26s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -202,7 +202,7 @@
 			"I": "15s-26s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -211,7 +211,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -220,7 +220,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -229,7 +229,7 @@
 			"I": "9s-15s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -238,7 +238,7 @@
 			"I": "5s",
 			"II": "15s-26s",
 			"III": "Bidding wars",
-			"VI": "(no ess form)",
+			"IV": "(no ess form)",
 			"V": null
 		}
 	},
@@ -247,7 +247,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -256,7 +256,7 @@
 			"I": "4s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -265,7 +265,7 @@
 			"I": "2s",
 			"II": "6s",
 			"III": "15s-26s",
-			"VI": "(no ess form)",
+			"IV": "(no ess form)",
 			"V": null
 		}
 	},
@@ -274,7 +274,7 @@
 			"I": "1s or less",
 			"II": "6s",
 			"III": "15s-26s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -283,7 +283,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -292,7 +292,7 @@
 			"I": "1s or less",
 			"II": "6s",
 			"III": "15s-26s",
-			"VI": "(no ess form)",
+			"IV": "(no ess form)",
 			"V": null
 		}
 	},
@@ -301,7 +301,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -310,7 +310,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -319,7 +319,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -328,7 +328,7 @@
 			"I": "5s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -337,7 +337,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -346,7 +346,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -355,7 +355,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -364,7 +364,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -373,7 +373,7 @@
 			"I": "9s-15s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -382,7 +382,7 @@
 			"I": "15s-26s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -391,7 +391,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -400,7 +400,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -409,7 +409,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -418,7 +418,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -427,7 +427,7 @@
 			"I": "32d or less",
 			"II": "3s",
 			"III": "9s-15s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -436,7 +436,7 @@
 			"I": "16d or less",
 			"II": "1s or less",
 			"III": "2s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -445,7 +445,7 @@
 			"I": "16d or less",
 			"II": "1s or less",
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -454,7 +454,7 @@
 			"I": "16d or less",
 			"II": "32d or less",
 			"III": "2s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -463,7 +463,7 @@
 			"I": "16d or less",
 			"II": "32d or less",
 			"III": "1s or less",
-			"VI": "2s",
+			"IV": "2s",
 			"V": null
 		}
 	},
@@ -472,7 +472,7 @@
 			"I": "16d or less",
 			"II": "32d or less",
 			"III": "1s or less",
-			"VI": "2s",
+			"IV": "2s",
 			"V": null
 		}
 	},
@@ -481,7 +481,7 @@
 			"I": "7s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -490,7 +490,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -499,7 +499,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -508,7 +508,7 @@
 			"I": "15s-26s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -517,7 +517,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -526,7 +526,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -535,7 +535,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -544,7 +544,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -553,7 +553,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -562,7 +562,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -571,7 +571,7 @@
 			"I": "4s",
 			"II": "6s",
 			"III": "15s-26s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -580,7 +580,7 @@
 			"I": "32d or less",
 			"II": "1s or less",
 			"III": "5s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -589,7 +589,7 @@
 			"I": "1s or less",
 			"II": "2s",
 			"III": "6s",
-			"VI": "15s-26s",
+			"IV": "15s-26s",
 			"V": "Bidding wars"
 		}
 	},
@@ -598,7 +598,7 @@
 			"I": "2s",
 			"II": "4s",
 			"III": "9s-15s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -607,7 +607,7 @@
 			"I": "3s",
 			"II": "5s",
 			"III": "15s-26s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -616,7 +616,7 @@
 			"I": "2s",
 			"II": "6s",
 			"III": "15s-26s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -625,7 +625,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -634,7 +634,7 @@
 			"I": "4s",
 			"II": "7s",
 			"III": "15s-26s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -643,7 +643,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -652,7 +652,7 @@
 			"I": "7s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -661,7 +661,7 @@
 			"I": "4s",
 			"II": "1-2 Sheggs",
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -670,7 +670,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -679,7 +679,7 @@
 			"I": "16d or less",
 			"II": "2s",
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -688,7 +688,7 @@
 			"I": "3s",
 			"II": "5s",
 			"III": "9s-15s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -697,7 +697,7 @@
 			"I": "6s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -706,7 +706,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -715,7 +715,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -724,7 +724,7 @@
 			"I": "4s",
 			"II": "9s-15s",
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -733,7 +733,7 @@
 			"I": "9s-15s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -742,7 +742,7 @@
 			"I": "7s-9s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -751,7 +751,7 @@
 			"I": "5s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -760,7 +760,7 @@
 			"I": "6s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -769,7 +769,7 @@
 			"I": "5s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -778,7 +778,7 @@
 			"I": "3s",
 			"II": "7s-9s",
 			"III": "Bidding wars",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -787,7 +787,7 @@
 			"I": "32d or less",
 			"II": "1s or less",
 			"III": "2s",
-			"VI": "6s",
+			"IV": "6s",
 			"V": "9s-15s"
 		}
 	},
@@ -796,7 +796,7 @@
 			"I": "2s",
 			"II": "5s",
 			"III": "9s-15s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -805,7 +805,7 @@
 			"I": "16d or less",
 			"II": "1s or less",
 			"III": "2s",
-			"VI": "7s-9s",
+			"IV": "7s-9s",
 			"V": "1-2 Sheggs"
 		}
 	},
@@ -814,7 +814,7 @@
 			"I": "5s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -823,7 +823,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -832,7 +832,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -841,7 +841,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -850,7 +850,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -859,7 +859,7 @@
 			"I": "32d or less",
 			"II": "4s",
 			"III": "9s-15s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -868,7 +868,7 @@
 			"I": "1s or less",
 			"II": "3s",
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -877,7 +877,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -886,7 +886,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -895,7 +895,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -904,7 +904,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -913,7 +913,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -922,7 +922,7 @@
 			"I": "6s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -931,7 +931,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -940,7 +940,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -949,7 +949,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -958,7 +958,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -967,7 +967,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -976,7 +976,7 @@
 			"I": "6s",
 			"II": "9s-15s",
 			"III": "1-2 Sheggs",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -985,7 +985,7 @@
 			"I": "2s",
 			"II": "3s",
 			"III": "4s",
-			"VI": "6s",
+			"IV": "6s",
 			"V": "9s-15s"
 		}
 	},
@@ -994,7 +994,7 @@
 			"I": "2s",
 			"II": "3s",
 			"III": "7s-9s",
-			"VI": "1-2 Sheggs",
+			"IV": "1-2 Sheggs",
 			"V": "Bidding wars"
 		}
 	},
@@ -1003,7 +1003,7 @@
 			"I": "2s",
 			"II": "7s-9s",
 			"III": "9s-15s",
-			"VI": "Bidding wars",
+			"IV": "Bidding wars",
 			"V": null
 		}
 	},
@@ -1012,7 +1012,7 @@
 			"I": "9s-15s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1021,7 +1021,7 @@
 			"I": "2s",
 			"II": "7s",
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1030,7 +1030,7 @@
 			"I": "4s",
 			"II": "7s",
 			"III": "1-2 Sheggs",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1039,7 +1039,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1048,7 +1048,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1057,7 +1057,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1066,7 +1066,7 @@
 			"I": "7s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1075,7 +1075,7 @@
 			"I": "2s",
 			"II": "6s",
 			"III": "15s-26s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1084,7 +1084,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1093,7 +1093,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1102,7 +1102,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1111,7 +1111,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1120,7 +1120,7 @@
 			"I": "16d or less",
 			"II": "16d or less",
 			"III": "16d or less",
-			"VI": "16d or less",
+			"IV": "16d or less",
 			"V": "2s"
 		}
 	},
@@ -1129,7 +1129,7 @@
 			"I": "16d or less",
 			"II": "32d or less",
 			"III": "1s or less",
-			"VI": "4s",
+			"IV": "4s",
 			"V": "9s-15s"
 		}
 	},
@@ -1138,7 +1138,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1147,7 +1147,7 @@
 			"I": "2s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1156,7 +1156,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1165,7 +1165,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1174,7 +1174,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1183,7 +1183,7 @@
 			"I": "16d or less",
 			"II": "32d or less",
 			"III": "32d or less",
-			"VI": "1s or less",
+			"IV": "1s or less",
 			"V": "5s"
 		}
 	},
@@ -1192,7 +1192,7 @@
 			"I": "32d or less",
 			"II": "2s",
 			"III": "7s-9s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1201,7 +1201,7 @@
 			"I": "16d or less",
 			"II": "1s or less",
 			"III": "3s",
-			"VI": "5s",
+			"IV": "5s",
 			"V": null
 		}
 	},
@@ -1210,7 +1210,7 @@
 			"I": "32d or less",
 			"II": "32d or less",
 			"III": "3s",
-			"VI": "7s",
+			"IV": "7s",
 			"V": null
 		}
 	},
@@ -1219,7 +1219,7 @@
 			"I": "32d or less",
 			"II": "1s or less",
 			"III": "3s",
-			"VI": "7s",
+			"IV": "7s",
 			"V": "1-2 Sheggs"
 		}
 	},
@@ -1228,7 +1228,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1237,7 +1237,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1246,7 +1246,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1255,7 +1255,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1264,7 +1264,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1273,7 +1273,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1282,7 +1282,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1291,7 +1291,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1300,7 +1300,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1309,7 +1309,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1318,7 +1318,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1327,7 +1327,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1336,7 +1336,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1345,7 +1345,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1354,7 +1354,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1363,7 +1363,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1372,7 +1372,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1381,7 +1381,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1390,7 +1390,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1399,7 +1399,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1408,7 +1408,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1417,7 +1417,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1426,7 +1426,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1435,7 +1435,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1444,7 +1444,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1453,7 +1453,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1462,7 +1462,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1471,7 +1471,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1480,7 +1480,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1489,7 +1489,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1498,7 +1498,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1507,7 +1507,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1516,7 +1516,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1525,7 +1525,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1534,7 +1534,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1543,7 +1543,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1552,7 +1552,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1561,7 +1561,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1570,7 +1570,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1579,7 +1579,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1588,7 +1588,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1597,7 +1597,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1606,7 +1606,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1615,7 +1615,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1624,7 +1624,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1633,7 +1633,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1642,7 +1642,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1651,7 +1651,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1660,7 +1660,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1669,7 +1669,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1678,7 +1678,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1687,7 +1687,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1696,7 +1696,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1705,7 +1705,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1714,7 +1714,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1723,7 +1723,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1732,7 +1732,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1741,7 +1741,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1750,7 +1750,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1759,7 +1759,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1768,7 +1768,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1777,7 +1777,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1786,7 +1786,7 @@
 			"I": "3s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1795,7 +1795,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1804,7 +1804,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1813,7 +1813,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1822,7 +1822,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1831,7 +1831,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1840,7 +1840,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1849,7 +1849,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1858,7 +1858,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1867,7 +1867,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1876,7 +1876,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1885,7 +1885,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1894,7 +1894,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1903,7 +1903,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1912,7 +1912,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1921,7 +1921,7 @@
 			"I": "2s",
 			"II": "7s-9s",
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1930,7 +1930,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1939,7 +1939,7 @@
 			"I": "7s",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1948,7 +1948,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1957,7 +1957,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1966,7 +1966,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1975,7 +1975,7 @@
 			"I": "32d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1984,7 +1984,7 @@
 			"I": "???????",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -1993,7 +1993,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2002,7 +2002,7 @@
 			"I": null,
 			"II": "16d or less",
 			"III": "32d or less",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2011,7 +2011,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2020,7 +2020,7 @@
 			"I": null,
 			"II": "32d or less",
 			"III": "2s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2029,7 +2029,7 @@
 			"I": null,
 			"II": "32d or less",
 			"III": "2s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2038,7 +2038,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2047,7 +2047,7 @@
 			"I": null,
 			"II": "16d or less",
 			"III": "32d or less",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2056,7 +2056,7 @@
 			"I": null,
 			"II": "16d or less",
 			"III": "32d or less",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2065,7 +2065,7 @@
 			"I": "16d or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2074,7 +2074,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2083,7 +2083,7 @@
 			"I": null,
 			"II": "16d or less",
 			"III": "32d or less",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2092,7 +2092,7 @@
 			"I": null,
 			"II": "16d or less",
 			"III": "32d or less",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2101,7 +2101,7 @@
 			"I": null,
 			"II": "32d or less",
 			"III": "2s",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2110,7 +2110,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2119,7 +2119,7 @@
 			"I": "1s or less",
 			"II": null,
 			"III": null,
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2128,7 +2128,7 @@
 			"I": null,
 			"II": "16d or less",
 			"III": "32d or less",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	},
@@ -2137,7 +2137,7 @@
 			"I": null,
 			"II": "16d or less",
 			"III": "32d or less",
-			"VI": null,
+			"IV": null,
 			"V": null
 		}
 	}

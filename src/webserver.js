@@ -20,8 +20,8 @@ const PORT = process.env.PORT;
 
 
 //middlewares
-app.set("view engine", "ejs");
-app.set("views", resolve("./client/views"));
+app.set("IVew engine", "ejs");
+app.set("IVews", resolve("./client/IVews"));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(rateLimitConfig);
