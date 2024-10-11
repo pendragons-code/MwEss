@@ -28,6 +28,8 @@ router.get("/lookup-infBlock", async (req, res) => {
 		const { infBlock } = req.body;
 		if (!infBlock) return res.status(400).json({ error: "Missing fields" });
 
+		if(infBlock.includes("stair") || infBlock.includes("slab") || infBlock.includes("wall") || infBlock.includes("fence")) return res.json({ result: "All slabs and stairs go for around 20-32 deggs. All walls go for around 15-25 deggs." });
+
 		let result = infBlockSheet[`${infBlock.toLowerCase().trim()}`];
 		if (!result) return res.status(400).json({ error: "Not in database" });
 
