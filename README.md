@@ -23,3 +23,9 @@ I actually had some issues with this, so i have basically maxed out free tiers o
 
 ## more details
 Check out the `docs` folder.
+
+## pages
+After hosting there are 2 pages: `/dev` and `/`.
+<br>
+`dev` talks about the end-points and what it returns
+`/` is the root page with some basic FAQ and info
