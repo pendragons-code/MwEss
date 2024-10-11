@@ -10,10 +10,14 @@
 		<div class="container mt-5" id="mainBodyContainer">
 
 			<div class="pinkify my-5">
-				<article>
-					<h3 class="text-center p-2">Some stats:</h3>
-					<p class="text-center mt-3">Successful Requests: <%= requestsServed %></p>
-					<p class="text-center mt-1">Catalogue Size: <%= itemCatalogueSize %></p>
+				<article class="text-center">
+					<h3 class="p-2">Some stats:</h3>
+					<p class="mt-3">Successful Requests: <%= requestsServed %>
+					</p>
+					<p class="mt-1">Catalogue Size: <%= itemCatalogueSize %>
+					</p>
+					<h3 class="p-2 mt-5">Start wrting code now:</h3>
+					<a class="mt-2 w-50 pinkify btn btn-primary" target="_blank" href="/dev">Documentation</a>
 				</article>
 			</div>
 
@@ -27,7 +31,18 @@
 					</h2>
 					<div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#homeAccordian">
 						<div class="accordion-body">
-							This is an implementation of christieBot's and tatatot234's minewind price guide as an API.
+							This is a simple API that serves data from some of the following price lists:
+							<ul>
+								<li>essence: <a target="_blank"
+										href="https://docs.google.com/spreadsheets/d/1NreN_qK0pZ0KrREBt6c8M3P5o0c7qjcmf53OPgyYBcA/edit?gid=0#gid=0">ChristieBot</a>
+								</li>
+								<li>essence: <a target="_blank"
+										href="https://docs.google.com/spreadsheets/d/12CYgW-9DA6b-6k7qpEpmE496k8kP6t7B_9cTo85D1RU/edit?gid=809036244#gid=809036244">tatatot234</a>
+								</li>
+								<li>inf block: <a target="_blank"
+										href="https://docs.google.com/spreadsheets/d/1oQQdgtUN_ew87snt1bE3UBAmUBDESP96eShynjfpbj8/edit?gid=0#gid=0">DJX
+										and Patchika</a></li>
+							</ul>
 							This is not in any way affiliated with minecraft or minewind. Just something made by the
 							player base for the player base.
 						</div>
@@ -58,7 +73,7 @@
 					</h2>
 					<div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#homeAccordian">
 						<div class="accordion-body">
-							Completely identical to the essence sheets.
+							Based on the sheets to the best of my abilities.
 						</div>
 					</div>
 				</div>

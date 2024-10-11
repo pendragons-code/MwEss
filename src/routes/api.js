@@ -45,6 +45,7 @@ router.get("/url", async (req, res) => {
 
 		await db.add("SuccessfulRequests", 1);
 		res.status(200).json({
+			"DJX-Patchika": "https://docs.google.com/spreadsheets/d/1oQQdgtUN_ew87snt1bE3UBAmUBDESP96eShynjfpbj8/edit?gid=0#gid=0",
 			"christieBot": "https://docs.google.com/spreadsheets/d/1NreN_qK0pZ0KrREBt6c8M3P5o0c7qjcmf53OPgyYBcA/edit?gid=0#gid=0",
 			"tatatot234": "https://docs.google.com/spreadsheets/d/12CYgW-9DA6b-6k7qpEpmE496k8kP6t7B_9cTo85D1RU/edit?gid=809036244#gid=809036244"
 		});
