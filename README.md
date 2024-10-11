@@ -3,11 +3,12 @@ This is an API I made for fun as a side project for a community of players calle
 
 ## run
 ```
+npm i
 npm i -g pm2
 npm run deploy
 ```
 
-## enIVronment
+## environment
 ```
 PORT = port number here
 ```

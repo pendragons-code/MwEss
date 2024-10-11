@@ -1,2151 +1,354 @@
-"cake on kill": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"repeating arrow": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"fang strike": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"slayer of the blind": {
-		"tier": {
-			"I": "A",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"absorption on teleport": {
-		"tier": {
-			"I": "TBD",
-			"II": "TBD",
-			"III": "SS",
-			"IV": null,
-			"V": null
-			}
-		},
-"ice pedestal": {
-		"tier": {
-			"I": "TBD",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"rain healing": {
-		"tier": {
-			"I": "TBD",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"back claymore": {
-		"tier": {
-			"I": "BBB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"nausea immunity": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"weakness resistance": {
-		"tier": {
-			"I": "TBD",
-			"II": "TBD",
-			"III": "TBD",
-			"IV": "TBD",
-			"V": null
-			}
-		},
-"proximity blind": {
-		"tier": {
-			"I": "S",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"slow resistance": {
-		"tier": {
-			"I": "TBD",
-			"II": "TBD",
-			"III": "X",
-			"IV": "Z",
-			"V": "Z ess form?"
-			}
-		},
-"photosynthesis": {
-		"tier": {
-			"I": "TBD",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"heal on teleport": {
-		"tier": {
-			"I": "TBD",
-			"II": "SS",
-			"III": "X",
-			"IV": null,
-			"V": null
-			}
-		},
-"fatigue resistance": {
-		"tier": {
-			"I": "TBD",
-			"II": "TBD",
-			"III": "Z?",
-			"IV": "Z?",
-			"V": null
-			}
-		},
-"goatfather": {
-		"tier": {
-			"I": "TBD",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"curse of fangs": {
-		"tier": {
-			"I": "TBD",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"force field": {
-		"tier": {
-			"I": "TBD",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"skeleton on teleport": {
-		"tier": {
-			"I": "TBD",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"lava eater": {
-		"tier": {
-			"I": "A",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"spontanious combustion?": {
-		"tier": {
-			"I": "TBD",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"arrow strike": {
-		"tier": {
-			"I": "SSS",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"fatal strike": {
-		"tier": {
-			"I": "SSS",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ice coffin strike": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"soul break": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"healthy strike": {
-		"tier": {
-			"I": "SS",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"untouchable": {
-		"tier": {
-			"I": "A",
-			"II": "SSS",
-			"III": "Z",
-			"IV": "(no ess form)",
-			"V": null
-			}
-		},
-"reflect on melee block": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"shadowmeld": {
-		"tier": {
-			"I": "BBB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"heighted senses": {
-		"tier": {
-			"I": "B",
-			"II": "AA",
-			"III": "SSS",
-			"IV": "(no ess form)",
-			"V": null
-			}
-		},
-"stability field": {
-		"tier": {
-			"I": "CCC",
-			"II": "AA",
-			"III": "SSS",
-			"IV": null,
-			"V": null
-			}
-		},
-"decreased infinity block cooldown": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"frost armor": {
-		"tier": {
-			"I": "CCC",
-			"II": "AA",
-			"III": "SSS",
-			"IV": "(no ess form)",
-			"V": null
-			}
-		},
-"increased infinity blocks placed": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"static field": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"life swap": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"summon dimension anomaly": {
-		"tier": {
-			"I": "A",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"water eater": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ender pearl dispencer": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"mass polymorph": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"aquatic explosion": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"death claw critical": {
-		"tier": {
-			"I": "SS",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"high graIVty critical": {
-		"tier": {
-			"I": "SSS",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"magma critical": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"water shot": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"dark seed explosion": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"volcanic explosion": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"flower healing": {
-		"tier": {
-			"I": "CC",
-			"II": "BB",
-			"III": "SS",
-			"IV": null,
-			"V": null
-			}
-		},
-"backstab resistance": {
-		"tier": {
-			"I": "C",
-			"II": "CCC",
-			"III": "B",
-			"IV": null,
-			"V": null
-			}
-		},
-"explosion resistance": {
-		"tier": {
-			"I": "C",
-			"II": "CCC",
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"headshot resistance": {
-		"tier": {
-			"I": "C",
-			"II": "CC",
-			"III": "B",
-			"IV": null,
-			"V": null
-			}
-		},
-"poison resistance": {
-		"tier": {
-			"I": "C",
-			"II": "CC",
-			"III": "CCC",
-			"IV": "B",
-			"V": null
-			}
-		},
-"wither resistance": {
-		"tier": {
-			"I": "C",
-			"II": "CC",
-			"III": "CCC",
-			"IV": "B",
-			"V": null
-			}
-		},
-"meteor storm": {
-		"tier": {
-			"I": "AAA",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"soul chain": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"graIVty well": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"sonic slash": {
-		"tier": {
-			"I": "SSS",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"flower field": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"summon woods": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"parrot form": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"deep freeze": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"nausea": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"blind": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"wither": {
-		"tier": {
-			"I": "BBB",
-			"II": "AA",
-			"III": "SSS",
-			"IV": null,
-			"V": null
-			}
-		},
-"poison": {
-		"tier": {
-			"I": "CC",
-			"II": "CCC",
-			"III": "A",
-			"IV": null,
-			"V": null
-			}
-		},
-"slow": {
-		"tier": {
-			"I": "CCC",
-			"II": "B",
-			"III": "AA",
-			"IV": "SSS",
-			"V": "Z"
-			}
-		},
-"bind": {
-		"tier": {
-			"I": "B",
-			"II": "BBB",
-			"III": "SS",
-			"IV": null,
-			"V": null
-			}
-		},
-"cripple": {
-		"tier": {
-			"I": "BB",
-			"II": "A",
-			"III": "SSS",
-			"IV": null,
-			"V": null
-			}
-		},
-"feed blocker": {
-		"tier": {
-			"I": "B",
-			"II": "AA",
-			"III": "SSS",
-			"IV": null,
-			"V": null
-			}
-		},
-"marker": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"magic disrupt": {
-		"tier": {
-			"I": "BBB",
-			"II": "AAA",
-			"III": "SSS",
-			"IV": null,
-			"V": null
-			}
-		},
-"starve": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"reduce heal": {
-		"tier": {
-			"I": "AAA",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"life steal": {
-		"tier": {
-			"I": "BBB",
-			"II": "X",
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"bloodlust": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"mounted damage": {
-		"tier": {
-			"I": "C",
-			"II": "B",
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"lightning strike": {
-		"tier": {
-			"I": "BB",
-			"II": "A",
-			"III": "SS",
-			"IV": null,
-			"V": null
-			}
-		},
-"freezing strike": {
-		"tier": {
-			"I": "AA",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"recover undead strike": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"recover shadow strike": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"backstab": {
-		"tier": {
-			"I": "BBB",
-			"II": "SS",
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"sage slayer": {
-		"tier": {
-			"I": "SS",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"critical plus": {
-		"tier": {
-			"I": "S",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"elder branch": {
-		"tier": {
-			"I": "A",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"satan sweep": {
-		"tier": {
-			"I": "AA",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"instant mining": {
-		"tier": {
-			"I": "A",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"increased melee damage": {
-		"tier": {
-			"I": "BB",
-			"II": "S",
-			"III": "Z",
-			"IV": null,
-			"V": null
-			}
-		},
-"increased lightning damage": {
-		"tier": {
-			"I": "CC",
-			"II": "CCC",
-			"III": "B",
-			"IV": "AA",
-			"V": "SS"
-			}
-		},
-"increased magic damage": {
-		"tier": {
-			"I": "B",
-			"II": "A",
-			"III": "SS",
-			"IV": null,
-			"V": null
-			}
-		},
-"increased arrow damage": {
-		"tier": {
-			"I": "C",
-			"II": "CCC",
-			"III": "B",
-			"IV": "S",
-			"V": "X"
-			}
-		},
-"chaos curse": {
-		"tier": {
-			"I": "A",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"leIVtation shot": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"frost arrow": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"love strike": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"sticky explosIVe": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"headshot": {
-		"tier": {
-			"I": "CC",
-			"II": "BBB",
-			"III": "SS",
-			"IV": null,
-			"V": null
-			}
-		},
-"lava shot": {
-		"tier": {
-			"I": "CCC",
-			"II": "BB",
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"spectre shot": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"santa rage": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"molotov": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"crouching web shot": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"rabbit shot": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"falken": {
-		"tier": {
-			"I": "AA",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"heart extractor": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"decapication": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"unholy strength": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"chain shot": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"death absorption": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"regeneration": {
-		"tier": {
-			"I": "AA",
-			"II": "SS",
-			"III": "X",
-			"IV": null,
-			"V": null
-			}
-		},
-"jump": {
-		"tier": {
-			"I": "B",
-			"II": "BB",
-			"III": "BBB",
-			"IV": "AA",
-			"V": "SS"
-			}
-		},
-"speed": {
-		"tier": {
-			"I": "B",
-			"II": "BB",
-			"III": "S",
-			"IV": "X",
-			"V": "Z"
-			}
-		},
-"strength": {
-		"tier": {
-			"I": "B",
-			"II": "S",
-			"III": "SS",
-			"IV": "Z",
-			"V": null
-			}
-		},
-"damage resistance": {
-		"tier": {
-			"I": "SS",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"haste": {
-		"tier": {
-			"I": "B",
-			"II": "AAA",
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"absorption": {
-		"tier": {
-			"I": "BBB",
-			"II": "AAA",
-			"III": "X",
-			"IV": null,
-			"V": null
-			}
-		},
-"water breathing": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"night IVsion": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"blindness immunity": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"knockback immunity": {
-		"tier": {
-			"I": "AAA",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"anti-mage": {
-		"tier": {
-			"I": "B",
-			"II": "AA",
-			"III": "SSS",
-			"IV": null,
-			"V": null
-			}
-		},
-"sacred absorption": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"sacred regen": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"sacred strength": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"grass nourishment": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"exp gain boost": {
-		"tier": {
-			"I": "C",
-			"II": "C",
-			"III": "C",
-			"IV": "C",
-			"V": "B"
-			}
-		},
-"increased heal power": {
-		"tier": {
-			"I": "C",
-			"II": "CC",
-			"III": "CCC",
-			"IV": "BBB",
-			"V": "SS"
-			}
-		},
-"increased potion duration": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"increased heal & harm potion": {
-		"tier": {
-			"I": "B",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"fast potion recharge": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"increased dagger replenish": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"increased throwing damage": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"increased maximum daggers": {
-		"tier": {
-			"I": "C",
-			"II": "CC",
-			"III": "CC",
-			"IV": "CCC",
-			"V": "A"
-			}
-		},
-"increased summon damage": {
-		"tier": {
-			"I": "CC",
-			"II": "B",
-			"III": "S",
-			"IV": null,
-			"V": null
-			}
-		},
-"maximum bees": {
-		"tier": {
-			"I": "C",
-			"II": "CCC",
-			"III": "BB",
-			"IV": "A",
-			"V": null
-			}
-		},
-"bee agression": {
-		"tier": {
-			"I": "CC",
-			"II": "CC",
-			"III": "BB",
-			"IV": "AAA",
-			"V": null
-			}
-		},
-"nature free cast": {
-		"tier": {
-			"I": "CC",
-			"II": "CCC",
-			"III": "BB",
-			"IV": "AAA",
-			"V": "X"
-			}
-		},
-"bite back": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"spongebob": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"heal on shield block": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"lava walker": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ice growth": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"blood soup": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"baby horde": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"rabbid rabbits": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"blood heal": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"web spinner": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"polymorph": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"centipede": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"bone path": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ignoble steed": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"water ball": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ice shinto": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ninja foxes": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"fire blast": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"vexers": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"elder phantom": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"dragon switch": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"fire hand": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ice bomb": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"skeleton horse": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"fire soulmass": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"aegis": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ghast chan": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"fire spiral": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"flame aegis": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"shadow fangs": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"dragon fireball": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"telekinesis": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"mana spirit": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"honey cannon": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"flying turtle": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"skeleton assassin": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"war bees": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ice prison": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"icengard": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"leIVtation": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ball lightning": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"multiflame": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"bone spirit": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"inIVsible sneak": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"night goggles": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"jump rod": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"shoot web": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"teleport": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"blizzard": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ice domain": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"lava shotgun": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"shadow swarm": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"magma orb": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"rage of zeus": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"woofers": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"web step": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"black hole": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"snowmage": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"shadow form": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"nature heal": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"flying panda": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"lava bolt": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"dragon leap": {
-		"tier": {
-			"I": "BB",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"grug charge": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"blood drain": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"blessed snow": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"dimension steed": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"fire hand": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"escape skeleton": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"giant snowball": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"exploding chickens": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"puchita": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ice path": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"shadow saw": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"skeleton archer": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"curse skull": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"zombie horse": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"bat blink": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"sneak fortitication": {
-		"tier": {
-			"I": "B",
-			"II": "S",
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"tornado": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"quickstep": {
-		"tier": {
-			"I": "AAA",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"dragon spawn": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"flying brown panda": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"teleport behind": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"vanishing teleport": {
-		"tier": {
-			"I": "CC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"safe teleport": {
-		"tier": {
-			"I": "???????",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"morbin time": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"fire soul": {
-		"tier": {
-			"I": null,
-			"II": "C",
-			"III": "CC",
-			"IV": null,
-			"V": null
-			}
-		},
-"increased fire recharge": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"ice soul": {
-		"tier": {
-			"I": null,
-			"II": "CC",
-			"III": "B",
-			"IV": null,
-			"V": null
-			}
-		},
-"nature soul": {
-		"tier": {
-			"I": null,
-			"II": "CC",
-			"III": "B",
-			"IV": null,
-			"V": null
-			}
-		},
-"increased elemental recharge": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"shadow soul": {
-		"tier": {
-			"I": null,
-			"II": "C",
-			"III": "CC",
-			"IV": null,
-			"V": null
-			}
-		},
-"blood soul": {
-		"tier": {
-			"I": null,
-			"II": "C",
-			"III": "CC",
-			"IV": null,
-			"V": null
-			}
-		},
-"fast blood recharge": {
-		"tier": {
-			"I": "C",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"blood ground siphon": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"undead soul": {
-		"tier": {
-			"I": null,
-			"II": "C",
-			"III": "CC",
-			"IV": null,
-			"V": null
-			}
-		},
-"orc soul": {
-		"tier": {
-			"I": null,
-			"II": "C",
-			"III": "CC",
-			"IV": null,
-			"V": null
-			}
-		},
-"dragon soul": {
-		"tier": {
-			"I": null,
-			"II": "CC",
-			"III": "B",
-			"IV": null,
-			"V": null
-			}
-		},
-"increased dark recharge": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"increased dragon recharge": {
-		"tier": {
-			"I": "CCC",
-			"II": null,
-			"III": null,
-			"IV": null,
-			"V": null
-			}
-		},
-"beast soul": {
-		"tier": {
-			"I": null,
-			"II": "C",
-			"III": "CC",
-			"IV": null,
-			"V": null
-			}
-		},
-"dimension soul": {
-		"tier": {
-			"I": null,
-			"II": "C",
-			"III": "CC",
-			"IV": null,
-			"V": null
-			}
-		},
+"oak log": "B",
+"oak planks": "CC",
+"oak wood": "CC",
+"stripped oak log": "CC",
+"stripped oak wood": "CC",
+"acacia log": "B",
+"acacia planks": "CC",
+"acacia wood": "CC",
+"stripped acacia log": "CC",
+"stripped acacia wood": "CC",
+"birch log": "BB",
+"birch planks": "CC",
+"birch wood": "B",
+"stripped  birch log": "CC",
+"stripped  birch wood": "CC",
+"dark oak log": "BB",
+"dark oak planks": "CC",
+"dark oak wood": "CC",
+"stripped  dark oak log": "CC",
+"stripped  dark oak wood": "CC",
+"jungle log": "B",
+"jungle planks": "CC",
+"jungle wood": "CC",
+"stripped  jungle log": "CC",
+"stripped  jungle wood": "CC",
+"mangrove log": "B",
+"mangrove planks": "CC",
+"mangrove wood": "CC",
+"stripped  mangrove log": "CC",
+"stripped  mangrove wood": "CC",
+"spruce log": "B",
+"spruce planks": "CC",
+"spruce wood": "CC",
+"stripped  spruce log": "CC",
+"stripped  spruce wood": "CC",
+"cherry log": "B",
+"cherry planks": "CC",
+"cherry wood": "CC",
+"stripped  cherry log": "CC",
+"stripped  cherry wood": "CC",
+"white wool": "BB",
+"orange wool": "CC",
+"magenta wool": "CC",
+"light blue wool": "CC",
+"yellow wool": "CC",
+"lime wool": "CC",
+"pink wool": "CC",
+"gray wool": "B",
+"light gray wool": "B",
+"cyan wool": "CC",
+"purple wool": "CC",
+"blue wool": "CC",
+"brown wool": "CC",
+"green wool": "CC",
+"red wool": "BB",
+"black wool": "BB",
+"white terracotta": "BB",
+"light gray terracotta": "B",
+"gray terracotta": "B",
+"black terracotta": "BB",
+"brown terracotta": "B",
+"red terracotta": "B",
+"orange terracotta": "B",
+"yellow terracotta": "B",
+"lime terracotta": "B",
+"green terracotta": "B",
+"cyan terracotta": "B",
+"light blue terracotta": "B",
+"blue terracotta": "B",
+"purple terracotta": "B",
+"magenta terracotta": "B",
+"pink terracotta": "B",
+"white glazed terracotta": "B",
+"orange glazed terracotta": "B",
+"magenta glazed terracotta": "B",
+"light blue glazed terracotta": "B",
+"yellow glazed terracotta": "B",
+"lime glazed terracotta": "B",
+"pink glazed terracotta": "B",
+"gray glazed terracotta": "B",
+"light gray glazed terracotta": "B",
+"cyan glazed terracotta": "B",
+"purple glazed terracotta": "B",
+"blue glazed terracotta": "B",
+"brown glazed terracotta": "B",
+"green glazed terracotta": "B",
+"red glazed terracotta": "B",
+"black glazed terracotta": "B",
+"white concrete": "BB",
+"orange concrete": "B",
+"magenta concrete": "B",
+"light blue concrete": "B",
+"yellow concrete": "B",
+"lime concrete": "B",
+"pink concrete": "B",
+"gray concrete": "B",
+"light gray concrete": "B",
+"cyan concrete": "B",
+"purple concrete": "B",
+"blue concrete": "B",
+"brown concrete": "B",
+"green concrete": "B",
+"red concrete": "BB",
+"black concrete": "BB",
+"white concrete powder": "CC",
+"orange concrete powder": "CC",
+"magenta concrete powder": "CC",
+"light blue concrete powder": "CC",
+"yellow concrete powder": "CC",
+"lime concrete powder": "CC",
+"pink concrete  powder": "CC",
+"gray concrete powder": "CC",
+"light gray concrete powder": "CC",
+"cyan concrete powder": "CC",
+"purple concrete powder": "CC",
+"blue concrete powder": "CC",
+"brown concrete powder": "CC",
+"green concrete powder": "CC",
+"red concrete powder": "CC",
+"black concrete powder": "CC",
+"glass block": "null",
+"white stained glass": "CC",
+"red stained glass": "CC",
+"orange stained glass": "CC",
+"pink stained glass": "CC",
+"yellow stained glass": "cc",
+"lime stained glass": "cc",
+"green stained glass": "cc",
+"light blue stained glass": "cc",
+"cyan stained glass": "cc",
+"blue stained glass": "cc",
+"magenta stained glass": "cc",
+"purple stained glass": "cc",
+"brown stained glass": "cc",
+"gray stained glass": "cc",
+"light gray stained glass": "cc",
+"black stained glass": "B",
+"tinted glass": "B",
+"glass block": "BB",
+"glass pane": "CC",
+"white glass pane": "C",
+"red glass pane": "C",
+"orange glass pane": "C",
+"pink glass pane": "C",
+"yellow glass pane": "C",
+"lime glass pane": "C",
+"green glass pane": "C",
+"light blue glass pane": "C",
+"cyan glass pane": "C",
+"blue glass pane": "C",
+"magenta glass pane": "C",
+"purple glass pane": "C",
+"brown glass pane": "C",
+"grey glass pane": "C",
+"light grey glass pane": "C",
+"black glass pane": "CC",
+"blackstone": "B",
+"chiseled polished blackstone": "CC",
+"cracked polished blackstone bricks": "CC",
+"gilded blackstone": "CC",
+"polished blackstone": "CC",
+"polished blackstone bricks": "CC",
+"basalt": "CC",
+"polished basalt": "CC",
+"smooth basalt": "CC",
+"crimson hyphae": "CC",
+"crimson nylium": "CC",
+"crimson planks": "CC",
+"crimson stem": "CC",
+"stripped crimson hyphae": "CC",
+"stripped crimson stem": "CC",
+"nether wart block": "C",
+"block of quartz": "A",
+"chiseled quartz block": "BB",
+"nether quartz ore": "BB",
+"quartz pillar": "BBB",
+"smooth quartz block": "AAA",
+"quartz bricks": "BBB",
+"nether bricks": "CC",
+"netherrack": "CC",
+"red nether bricks": "C",
+"magma block": "CC",
+"soul sand": "CC",
+"soul soil": "CC",
+"stripped warped hyphae": "CC",
+"stripped warped stem": "CC",
+"warped hyphae": "CC",
+"warped nylium": "CC",
+"warped planks": "CC",
+"warped stem": "CC",
+"warped wart block": "C",
+"end stone": "CC",
+"end stone bricks": "CC",
+"obsidian": "BBB",
+"crying obsidian": "BB",
+"respawn anchor": "B",
+"purpur block": "CC",
+"purpur pillar": "C",
+"sand": "B",
+"farmland": "CC",
+"mud": "CC",
+"clay": "B",
+"red sand": "CC",
+"coarse dirt": "B",
+"rooted dirt": "B",
+"podzol": "CC",
+"mycellium": "CC",
+"dirt path": "CC",
+"dirt": "BBB",
+"grass block": "A",
+"iron": "null",
+"block of iron": "BB",
+"block of raw iron": "BB",
+"chain": "B",
+"deepslate iron ore": "CC",
+"iron bars": "CC",
+"iron ore": "CC",
+"block of gold": "CC",
+"block of raw gold": "CC",
+"deepslate gold ore": "CC",
+"gold ore": "CC",
+"deepslate diamond ore": "CC",
+"diamond block": "BBB",
+"diamond ore": "CC",
+"deepslate emerald ore": "CC",
+"emerald block": "B",
+"emerald ore": "CC",
+"block of amethyst": "B",
+"budding amethyst": "C",
+"block of lapis lazuli": "B",
+"deepslate lapis lazuli ore": "CC",
+"lapis lazuli ore": "C",
+"block of coal": "A",
+"coal ore": "CC",
+"deepslate coal ore": "CC",
+"block of copper": "B",
+"block of raw copper": "CC",
+"cut copper": "CC",
+"deepslate copper ore": "CC",
+"oxidized copper": "CC",
+"oxidized cut copper": "CC",
+"waxed cut copper": "CC",
+"waxed oxidized copper": "CC",
+"waxed oxidized cut copper": "CC",
+"copper ore": "CC",
+"deepslate copper ore": "CC",
+"raw copper": "B",
+"beehive": "BB",
+"smithing table": "B",
+"composter": "B",
+"loom": "B",
+"note block": "BB",
+"slime block": "BBB",
+"honey block": "BB",
+"beenest": "B",
+"bookshelf": "BBB",
+"chizeled bookshelf": "BB",
+"sculk": "B",
+"stone": "AA",
+"smooth stone": "AA",
+"cobblestone": "AA",
+"andesite": "B",
+"polished andesite": "B",
+"diorite": "B",
+"polished diorite": "B",
+"granite": "B",
+"polished granite": "CC",
+"sandstone": "B",
+"chiseled sandstone": "B",
+"smooth sandstone": "B",
+"red sandstone": "B",
+"chiseled red sandstone": "B",
+"smooth red sandstone": "B",
+"cut sandstone": "B",
+"cut red sandstone": "B",
+"deepslate": "B",
+"infested deepslate": "CC",
+"deepslate tiles": "CC",
+"cracked deepslate tiles": "CC",
+"deepslate bricks": "B",
+"cracked deepslate bricks": "B",
+"chiseled deepslate": "B",
+"cobbled deepslate": "B",
+"polished deepslate": "B",
+"reinforced deepslate": "B",
+"stone bricks": "AA",
+"cracked stone bricks": "A",
+"chiseled stone bricks": "A",
+"mossy cobblestone": "BB",
+"mossy stone bricks": "BB",
+"bricks": "B",
+"packed mud": "CC",
+"mud bricks": "B",
+"drip stone": "CC",
+"calcite": "CC",
+"gravel block": "B",
+"end rod": "BB",
+"glowstone": "A",
+"shroomlight": "BBB",
+"ochre froglight": "BB",
+"pearlescent froglight": "BB",
+"verdant froglight": "BB",
+"jack o'lantern": "BBB",
+"redstone lamp": "B",
+"sea lantern": "BBB",
+"oak leaves": "B",
+"spruce leaves": "B",
+"birch leaves": "B",
+"jungle leaves": "B",
+"acacia leaves": "B",
+"dark oak leaves": "B",
+"azalea leaves": "BB",
+"flowering azalea leaves": "BB",
+"mangrove leaves": "B",
+"cherry leaves": "B",
+"brown mushroom block": "BB",
+"mushroom stem": "A",
+"red mushroom block": "BBB",
+"cactus": "BB",
+"carved pumpkin": "BBB",
+"hay bale": "BB",
+"melon": "A",
+"pumpkin": "BBB",
+"moss block": "A",
+"block of bamboo": "B",
+"block of stripped bamboo": "CC",
+"bamboo planks": "CC",
+"bamboo mosaic": "B",
+"bamboo sign": "CC",
+"bone block": "BBB",
+"mangrove roots": "CC",
+"muddy mangrove roots": "C",
+"brain coral block": "CC",
+"bubble coral block": "CC",
+"fire coral block": "CC",
+"horn coral block": "CC",
+"tube coral block": "CC",
+"blue ice": "BB",
+"ice": "BB",
+"packed ice": "BB",
+"snow block": "BB",
+"dried kelp block": "CC",
+"sponge": "BBB",
+"dark prismarine": "B",
+"prismarine": "B",
+"prismarine bricks": "B",
+"redstone block": "A",
+"observer block": "B",
+"piston block": "B",
+"sticky piston block": "BB",
+"target block": "B",
+"daylight detector": "CC",
+"redstone ore": "CC",
+"netherite": "B",

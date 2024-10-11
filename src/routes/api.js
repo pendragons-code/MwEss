@@ -1,16 +1,34 @@
 const essenceSheet = require("../../JSON/essence.json");
+const infBlockSheet = require("../../JSON/infinityBlocks.json");
 const express = require("express");
 const router = express.Router();
 
 
 
-// lookup - looks up for item
+// lookup-ess - looks up for specified essence
 router.get("/lookup-ess", async (req, res) => {
 	try {
 		const { essence } = req.body;
 		if (!essence) return res.status(400).json({ error: "Missing fields" });
 
 		let result = essenceSheet[`${essence.toLowerCase().trim()}`];
+		if (!result) return res.status(400).json({ error: "Not in database" });
+
+		await db.add("SuccessfulRequests", 1);
+		return res.json({ result });
+	} catch (error) {
+		console.error(error);
+		return res.status(500).json({ error: "Internal Server Error" });
+	}
+});
+
+// lookup-inf-block - looks up for specified block
+router.get("/lookup-infBlock", async (req, res) => {
+	try {
+		const { infBlock } = req.body;
+		if (!infBlock) return res.status(400).json({ error: "Missing fields" });
+
+		let result = infBlockSheet[`${infBlock.toLowerCase().trim()}`];
 		if (!result) return res.status(400).json({ error: "Not in database" });
 
 		await db.add("SuccessfulRequests", 1);
